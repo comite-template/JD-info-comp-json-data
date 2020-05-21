@@ -1,1295 +1,1295 @@
 [
-/t{
-/t/t"iconeSection": "heat-map",
-/t/t"id": 1,
-/t/t"pages": [],
-/t/t"titreSection": "La thermographie"
-/t},
-/t{
-/t/t"iconeSection": "grass",
-/t/t"id": 2,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_topographie.png",
-/t/t/t/t"pageURL": "topographie",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_topographie_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_topographie"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "topographie.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
-/t/t/t/t/t/t/t/t/t"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
-/t/t/t/t/t/t/t/t/t"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter."
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "Pentes autour du bâtiment"
-/t/t/t/t/t},
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_topographie_2.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_topographie"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "topographie.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "ul",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter. La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment. ",
-/t/t/t/t/t/t/t/t/t"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
-/t/t/t/t/t/t/t/t/t"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "Fortes pentes"
-/t/t/t/t/t},
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_topographie_3.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_topographie"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "topographie.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "ol",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter. La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment. ",
-/t/t/t/t/t/t/t/t/t"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
-/t/t/t/t/t/t/t/t/t"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "Installation d'un drainage de surface"
-/t/t/t/t/t},
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_topographie_4.png",
-/t/t/t/t/t/t/t"titreImage": "titre_image_topographie"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "topographie.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter. La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment. ",
-/t/t/t/t/t/t/t/t/t"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
-/t/t/t/t/t/t/t/t/t"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_topographie"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Topographie"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_surfaces_de_circulation.png",
-/t/t/t/t"pageURL": "surfaces-de-circulation",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_surfaces_de_circulation_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_surfaces_de_circulation"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "surfaces_de_circulation.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Il est essentiel que les pentes des surfaces de circulation en périphérie du bâtiment éloignent l’eau des fondations. Un drain linéaire favorisera un drainage adéquat des eaux en présence d’un pavé avec une pente dirigeant l’eau vers le bâtiment.",
-/t/t/t/t/t/t/t/t/t"La déformation d’une surface de circulation extérieure est souvent liée à la piètre qualité de la composition et/ou la mauvaise compaction du sol sous les surfaces de finition. Les déformations favorisent une accumulation d’eau et une usure prématurée des surfaces. ",
-/t/t/t/t/t/t/t/t/t"Le support des surfaces de circulation adossées au bâtiment et à moins de 8 pouces de la base des revêtements extérieurs doit impérativement permettre une circulation d’air et une évacuation adéquate de l’eau. ",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en aménagement paysager et/ou en excavation pourraient être requis pour corriger les déformations et/ou le support des surfaces de circulation."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_surfaces_de_circulation"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Surfaces de circulation"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_végétation.png",
-/t/t/t/t"pageURL": "végétation",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_végétation_1.png",
-/t/t/t/t/t/t/t"titreImage": "titre_image_végétation"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "végétation.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "ul",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Le substrat humide nécessaire pour la croissance des végétaux augmente les risques d’infiltration d’eau dans le bâtiment, l’usure prématurée des matériaux à proximité et la présence de parasites.",
-/t/t/t/t/t/t/t/t/t"Les végétaux sont une source d’humidité pouvant causer une usure prématurée des matériaux et limitent la circulation d’air permettant un assèchement des surfaces.",
-/t/t/t/t/t/t/t/t/t"Les plantes grimpantes peuvent endommager la surface des matériaux et pénétrer derrière les revêtements extérieurs non étanche ou par les ouvertures nécessaires pour l’écran pare-pluie.",
-/t/t/t/t/t/t/t/t/t"Le système racinaire envahissant de certaines plantations peut endommager les fondations et boucher les drains pluviaux.",
-/t/t/t/t/t/t/t/t/t"Les arbres surplombant les toitures favorisent l’accumulation de débris végétal pouvant causer une usure prématurée des revêtements de toiture et boucher les drains de toiture et gouttières.",
-/t/t/t/t/t/t/t/t/t"Les végétaux attirent naturellement les parasites. La décomposition de végétaux ou de souches peut attirer les fourmis charpentières à proximité du bâtiment.",
-/t/t/t/t/t/t/t/t/t"Il est recommandé d’installer les aménagements paysager à 6 pieds des fondations. On recherchera plutôt un sol se drainant le mieux possible au pourtour des fondations ou une pente imperméable éloignant l’eau sur 6 pieds. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de déplacer la végétation à proximité du bâtiment."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "Les aménagements paysager à proximité d’un bâtiment peuvent être la cause de plusieurs problématiques :"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "Proximité du bâtiment"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Végétation"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_ouvertures_au_niveau_du_sol.png",
-/t/t/t/t"pageURL": "ouvertures-au-niveau-du-sol",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_ouvertures_au_niveau_du_sol_1.png",
-/t/t/t/t/t/t/t"titreImage": "titre_image_ouvertures_au_niveau_du_sol"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "ouvertures_au_niveau_du_sol.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"La distance recommandée est de 8 pouces entre la base d’une ouverture et le niveau du sol. Lorsque cette distance est inférieure, il faut installer des margelles afin d’abaisser le niveau du sol. Même dans le cas des ouvertures électriques ou autres pour entrer un système dans le bâtiment, nous recommandons d’installer un dispositif comparable aux margelles. ",
-/t/t/t/t/t/t/t/t/t"Il sera nécessaire de retirer annuellement les débris dans les margelles pour éviter les accumulations d’eau et maintenir une distance de 8 pouces ou plus entre le niveau du sol dans la margelle et l’ouverture.",
-/t/t/t/t/t/t/t/t/t"Il faut s’assurer que le sol de la margelle est constitué d’un matériau granulaire perméable (exemple : gravier type ¾ net) sur une profondeur de 12 pouces afin de permettre un drainage adéquat. Certaines margelles sont équipées d’un tuyau perforé relié au drain de fondation pour favoriser l’évacuation des eaux. Il est judicieux de surélever le rebord de la margelle pour prévenir les chutes dans la margelle. L’utilisation de matériaux imputrescibles est recommandée. ",
-/t/t/t/t/t/t/t/t/t"Si on installe une margelle devant une fenêtre de sous-sol qui dessert une chambre, cette dernière ne doit pas bloquer l’issue requise. Un dégagement minimal doit être maintenu devant la margelle afin de permettre une évacuation sécuritaire. Il est important de tenir dégager les fenêtres des chambres à coucher afin de permettre l’évacuation d’urgence en cas d’incendie.",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourraient être requis afin d’installer une margelle."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_ouvertures_au_niveau_du_sol"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Ouvertures au niveau du sol"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_matériaux_à_protéger.png",
-/t/t/t/t"pageURL": "matériaux-à-protéger",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_matériaux_à_protéger_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_matériaux_à_protéger"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "matériaux_à_protéger.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Les matériaux sensibles à l’humidité tel que le bois et certains métaux ou matériaux composite doivent être protégé des intempéries à l’aide d’un traitement appropriée. Sans cette protection, la détérioration des matériaux s’accélère puisqu’ils deviennent vulnérables aux effets de l’eau et de l’humidité. La plupart des traitements sont habituellement à refaire aux 3 à 5 ans. Nettoyer bien les matériaux avant l’application du traitement et suivre les directives du fabricant afin d’augmenter sa longévité. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un peintre pourraient être requis afin d’appliquer les traitements.",
-/t/t/t/t/t/t/t/t/t"La protection des matériaux sensibles à l’humidité s’applique à tous les ouvrages extérieurs exposés aux intempéries tel que les revêtements extérieurs, les cadrages des portes et fenêtres, les seuils de porte, les escaliers, les garde-corps et les terrasses. Les structures sous les terrasses doivent également être protégées contre les intempéries.",
-/t/t/t/t/t/t/t/t/t"Idéalement, l’utilisation de matériaux plus résistants à l’humidité est recommandée pour les ouvrages exposés aux intempéries afin de limiter les entretiens nécessaires et les risques d’usures prématurées.",
-/t/t/t/t/t/t/t/t/t"Afin d’éviter une humidité excessive pouvant détériorée prématurément les matériaux sensibles à l’humidité, un dégagement de 8 pouces est recommandé entre les matériaux et le niveau du sol. Il est conseillé d’utiliser une bande de mousse d’étanchéité, un papier bitume ou un étier en acier inoxydable prévu à cet effet pour séparer le bois du béton, ce dernier étant assez poreux pour absorber l’eau.",
-/t/t/t/t/t/t/t/t/t"Éviter de conserver des matériaux de construction sur le sol humide ou de grande quantité de bois de chauffage à proximité du bâtiment et retirer tout bois pourri et les végétaux morts, y compris les souches, afin de ne pas attirer les parasites comme la fourmi charpentière ou favoriser la création de moisissures pouvant migrer dans le bâtiment.",
-/t/t/t/t/t/t/t/t/t"La corrosion des métaux et le bois pourri pourraient réduire la capacité structurale requise pour supporter les charges de certains ouvrages, ce qui représente un risque pour les occupants. Les matériaux endommagés supportant des charges devraient être remplacer. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un charpentier menuisier, d’un ferblantier, d’un spécialiste en architecture et/ou d’un ingénieur en structure sont requis afin de remplacer les matériaux endommagés supportant des charges."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_matériaux_à_protéger"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Matériaux à protéger"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_murs_de_soutènement.png",
-/t/t/t/t"pageURL": "murs-de-soutènement",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_murs_de_soutènement_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_murs_de_soutènement"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "murs_de_soutènement.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Un mur de soutènement est un mur extérieur dont la fonction est de supporter latéralement le sol ou de résister à la pression d’autres matériaux afin d’éviter les glissements de terrain et contenir le sol dans un espace défini et réduit. ",
-/t/t/t/t/t/t/t/t/t"Plusieurs facteurs tels que la capacité portante du sol, le type de fondations nécessaires, le drainage et la capacité structurale des matériaux utilisés sont à considérer afin d’assurer la stabilité d’un mur de soutènement. De plus, la réalisation d’un mur de soutènement est souvent soumise aux règlements municipaux d’urbanisme.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, de spécialistes en aménagement paysager et/ou en excavation pourraient être requis afin d’installer un mur de soutènement.",
-/t/t/t/t/t/t/t/t/t"Prenez note qu’il est nécessaire d’inspecter annuellement ces installations afin de vérifier la stabilité et la solidité des murs. En présence de signes de déformation ou d’affaissement, il est primordial d’agir rapidement pour éviter un glissement de terrain pouvant provoquer des dommages ou des blessures importantes.",
-/t/t/t/t/t/t/t/t/t"Idéalement, ces installations ne devraient pas être directement collées sur les murs de la fondation du bâtiment afin d’éviter les mouvements indésirables sur la fondation lors des cycles de gel et dégel.",
-/t/t/t/t/t/t/t/t/t"Dans certains cas, les pentes peuvent être aménagées différemment afin d’éviter la construction d’un mur de soutènement. La plantation de végétaux avec un système racinaire important ou l’adoucissement des pentes sont des exemples de stratégies pouvant être appliquées."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_murs_de_soutènement"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Murs de soutènement"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Aménagement "
-/t},
-/t{
-/t/t"iconeSection": "log-cabin",
-/t/t"id": 3,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fondations_de_béton_coulé.png",
-/t/t/t/t"pageURL": "fondations-de-béton-coulé",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_fondations_de_béton_coulé_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_fondations_de_béton_coulé"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "http://www.fondations_de_béton_coulé.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Il n’est pas rare d’observer des fissures dans les fondations en béton coulé. Plusieurs facteurs sont à prendre en considération et une expertise est nécessaire afin de déterminer les causes des fissures. Il est impossible de déterminer lors d’une inspection sommaire si les fissures sont récentes ou n’ont pas évolué depuis plusieurs années.",
-/t/t/t/t/t/t/t/t/t"Peu importe les causes, les fissures doivent être colmatées pour éviter que l’eau détériore le béton par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"La section hors-sol des murs des fondations en béton coulé doit être protégée des intempéries à l’aide d’un revêtement adéquat puisque le béton est un matériau poreux absorbant l’eau. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
-/t/t/t/t/t/t/t/t/t"L’appui des semelles sous les fondations doit être adéquat et protégé du gel afin d’éviter un mouvement des fondations lors des périodes de gel/dégel. Un mouvement des fondations peut causer d’importants dégâts à l’ensemble des structures qu’elles supportent (planchers, murs extérieurs, toiture). En cas de doute, il est recommandé de consulter un spécialiste pour valider la conformité de l’installation et, si nécessaire, vous proposer des solutions pour sécuriser l’ensemble.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un spécialiste en architecture, de spécialistes en réparation de fondations et/ou en excavation sont requis afin de valider la conformité de l’installation et d’apporter les correctifs si nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Il est risqué d’installer des finitions ou un isolant au sous-sol si l’ensemble des murs des fondations n’est pas étanche et bien drainé. À noter que le bitume habituellement installé sous le niveau du sol offre une durée de vie limitée qui est estimée à ±25 ans. Il est fortement recommandé de prévoir une nouvelle imperméabilisation des fondations lorsque le bitume aura atteint sa fin de vie utile. Lors de la réfection, privilégier une membrane d’étanchéité drainante pour les fondations qui offrira une durée de vie plus longue et une meilleure protection. "
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "Fissures mineures"
-/t/t/t/t/t},
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_fondations_de_béton_coulé_2.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_fondations_de_béton_coulé"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "fondations_de_béton_coulé.com",
-/t/t/t/t/t/t/t/t"texte": "lien2"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Il n’est pas rare d’observer des fissures dans les fondations en béton coulé. Plusieurs facteurs sont à prendre en considération et une expertise est nécessaire afin de déterminer les causes des fissures. Il est impossible de déterminer lors d’une inspection sommaire si les fissures sont récentes ou n’ont pas évolué depuis plusieurs années.",
-/t/t/t/t/t/t/t/t/t"Peu importe les causes, les fissures doivent être colmatées pour éviter que l’eau détériore le béton par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
-/t/t/t/t/t/t/t/t/t"Les services de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"La section hors-sol des murs des fondations en béton coulé doit être protégée des intempéries à l’aide d’un revêtement adéquat puisque le béton est un matériau poreux absorbant l’eau. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
-/t/t/t/t/t/t/t/t/t"L’appui des semelles sous les fondations doit être adéquat et protégé du gel afin d’éviter un mouvement des fondations lors des périodes de gel/dégel. Un mouvement des fondations peut causer d’importants dégâts à l’ensemble des structures qu’elles supportent (planchers, murs extérieurs, toiture). En cas de doute, il est recommandé de consulter un spécialiste pour valider la conformité de l’installation et, si nécessaire, vous proposer des solutions pour sécuriser l’ensemble.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un spécialiste en architecture, de spécialistes en réparation de fondations et/ou en excavation sont requis afin de valider la conformité de l’installation et d’apporter les correctifs si nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Il est risqué d’installer des finitions ou un isolant au sous-sol si l’ensemble des murs des fondations n’est pas étanche et bien drainé. À noter que le bitume habituellement installé sous le niveau du sol offre une durée de vie limitée qui est estimée à ±25 ans. Il est fortement recommandé de prévoir une nouvelle imperméabilisation des fondations lorsque le bitume aura atteint sa fin de vie utile. Lors de la réfection, privilégier une membrane d’étanchéité drainante pour les fondations qui offrira une durée de vie plus longue et une meilleure protection. "
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "Fissures majeures"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Fondations de béton coulé"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fondations_de_pierres.png",
-/t/t/t/t"pageURL": "fondations-de-pierres",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_fondations_de_pierres_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_fondations_de_pierres"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "fondations_de_pierres.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Il s’agit d’une technique de construction ancestrale. Les fondations de pierres ont généralement une épaisseur de 24 à 36 pouces. Bien souvent la stabilité structurale n’est pas un problème. Cependant, à force d’être exposé à l’eau, la détérioration des joints de mortier entre les pierres favorise les infiltrations d’eau, d’air et de parasites. Bien que les fondations de ce type aient traversées les époques, il est nécessaire de restaurer ces ouvrages au fil du temps, particulièrement quand ceux-ci sont exposés à de fort ruissellement d’eau.",
-/t/t/t/t/t/t/t/t/t"Les services d’un maçon pourraient être requis afin de restaurer les joints de mortier et remplacer les pierres abimées ou manquantes.",
-/t/t/t/t/t/t/t/t/t"La principale faiblesse des fondations de pierres est sa perméabilité à l’humidité extérieure. La section hors-sol des murs des fondations doit être protégée des intempéries à l’aide d’un revêtement adéquat. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
-/t/t/t/t/t/t/t/t/t"Il est risqué d’installer des finitions ou un isolant au sous-sol si l’ensemble des murs des fondations n’est pas étanche et bien drainé. À noter que les fondations en pierres sont rarement imperméabilisées et drainées sous le niveau du sol. Afin de réduire les risques d’infiltrations d’eau sous le niveau du sol, privilégier une membrane d’étanchéité drainante pour les fondations qui offrira une durée de vie plus longue et une meilleure protection. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un maçon, d’un spécialiste en architecture, d’un plombier, de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de réaliser les travaux d’étanchéité et de drainage des fondations. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Les fissures doivent être colmatées pour éviter que l’eau détériore les pierres ou le mortier par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un maçon, de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un maçon, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_fondations_de_pierres"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Fondations de pierres"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fondations_de_blocs_de_béton.png",
-/t/t/t/t"pageURL": "fondations-de-blocs-de-béton",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_fondations_de_blocs_de_béton_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_fondations_de_blocs_de_béton"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "fondations_de_blocs_de_béton.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Une fondation en blocs de béton présente un risque plus élevé d’infiltration d’eau en raison de la faiblesse des joints de mortier entre les blocs. À noter qu’une fondation en bloc de béton est particulièrement sensible aux excès d‘humidité. La présence constante d’eau provoque une détérioration prématurée du mortier structural liant les blocs, pouvant ainsi compromettre l’intégrité structurale des fondations. Ce type de fondation est également plus susceptible de se déformer par la pression du sol qui gèle. La topographie permettant un drainage adéquat et la présence de gouttières éloignant l’eau des fondations sont des interventions simples et primordiales afin de réduire les risques de déformation ou d’infiltrations. Il est possible que les blocs de béton soient remplis de béton et solidifiés à l’aide de barres d’armatures. Cette technique est cependant impossible à vérifier lors d’une inspection sommaire.",
-/t/t/t/t/t/t/t/t/t"Il n’est pas rare d’observer des fissures dans les fondations en blocs de béton. Plusieurs facteurs sont à prendre en considération et une expertise est nécessaire afin de déterminer les causes des fissures. Il est impossible de déterminer lors d’une inspection sommaire si les fissures sont récentes ou n’ont pas évolué depuis plusieurs années.",
-/t/t/t/t/t/t/t/t/t"Peu importe les causes, les fissures doivent être colmatées pour éviter que l’eau détériore le béton ou le mortier par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
-/t/t/t/t/t/t/t/t/t"Les services d’un maçon, de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un maçon, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
-/t/t/t/t/t/t/t/t/t"La section hors-sol des murs des fondations en blocs de béton doit être protégée des intempéries à l’aide d’un revêtement adéquat puisque le béton et le mortier sont des matériaux poreux absorbant l’eau. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage.",
-/t/t/t/t/t/t/t/t/t"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
-/t/t/t/t/t/t/t/t/t"L’appui des semelles sous les fondations doit être adéquat et protégé du gel afin d’éviter un mouvement des fondations lors des périodes de gel/dégel. Un mouvement des fondations peut causer d’importants dégâts à l’ensemble des structures qu’elles supportent (planchers, murs extérieurs, toiture). En cas de doute, il est recommandé de consulter un spécialiste pour valider la conformité de l’installation et, si nécessaire, vous proposer des solutions pour sécuriser l’ensemble.",
-/t/t/t/t/t/t/t/t/t"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un spécialiste en architecture, de maçon, de spécialistes en réparation de fondations et/ou en excavation sont requis afin de valider la conformité de l’installation et d’apporter les correctifs si nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_fondations_de_blocs_de_béton"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Fondations de blocs de béton"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fondations_en_bois_traité.png",
-/t/t/t/t"pageURL": "fondations-en-bois-traité",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Fondations en bois traité"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fondations_sur_pieux.png",
-/t/t/t/t"pageURL": "fondations-sur-pieux",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Fondations sur pieux"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_murs.png",
-/t/t/t/t"pageURL": "murs",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_murs_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_murs"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "murs.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Peu importe le type de structure, il est primordial de considérer le transfert des charges applicables lors d’une modification dans un mur extérieur tel que l’agrandissement ou l’ajout d’une porte ou d’une fenêtre.",
-/t/t/t/t/t/t/t/t/t"Les services d’un ingénieur en structure et/ou d’un spécialiste en architecture sont requis afin d’évaluer les charges et proposer une modification adéquate de la structure.",
-/t/t/t/t/t/t/t/t/t"La majorité des structures des murs extérieurs des bâtiments construit avant la 1ere guerre mondiale sont massives et ne comportent pas de cavités pour un isolant. Il n’est pas rare d’observer des murs de pierres ou de briques de ±24 pouces d’épaisseurs ou des murs en pièces de bois de ±4 pouces empilées à l’horizontale. Entretenu adéquatement, les murs massifs offrent une excellente stabilité structurale et une masse thermique intéressante. Elles sont cependant difficiles à isoler et requièrent les services d’un spécialiste en architecture afin d’établir une méthode d’isolation qui n’affectera pas l’intégrité des composantes.",
-/t/t/t/t/t/t/t/t/t"La charpente à claire-voie est la première structure de murs extérieurs avec cavités pour un isolant. Les montants de bois de ±4 pouces d’épaisseur sont installés à la verticale avec un espace de ±12 pouces entre chaque montant. La particularité de cette charpente réside dans la continuité des montants de bois et des cavités entre les planchers, ce qui explique l’affaissement fréquent de l’isolant vers le bas. Les solives de plancher sont fixées sur le chant des montants et normalement supportées par une lambourde du côté intérieur. La charpente est normalement contreventée à l’aide de planches installées du côté extérieur.",
-/t/t/t/t/t/t/t/t/t"Dans le 1er quart du XXe siècle, les bâtiments construits en bois délaissent graduellement la charpente à claire-voie pour l’ossature à plate-forme, une technique de construction qui est encore largement utilisée de nos jours. Les planchers sont installés sur le dessus des montants des murs à l’aide de sablières, ce qui réduit considérablement la hauteur des montants et permet une préfabrication partielle de la majorité des murs, planchers et toitures. Les montants de bois peuvent être espacés jusqu’à 24 pouces, laissant une place plus importante pour l’isolant dans les cavités murales. L’ossature à plate-forme nécessite également un contreventement, normalement sous la forme de panneaux rigides du côté extérieur.",
-/t/t/t/t/t/t/t/t/t"Plusieurs autres techniques ont été développées et utilisées pour la construction des murs des bâtiments en Amérique du Nord telles que :",
-/t/t/t/t/t/t/t/t/t"•\tMurs massifs en rondin de bois, en blocs de béton, en béton coulé ou en panneaux de bois lamellé-croisé (CLT);",
-/t/t/t/t/t/t/t/t/t"•\tSystèmes de poutres et colonnes en bois, acier ou béton combinés à des murs isolés non porteurs, des murs rideaux ou des panneaux préfabriqués;",
-/t/t/t/t/t/t/t/t/t"•\tOssatures à plate-forme en acier;",
-/t/t/t/t/t/t/t/t/t"•\tPanneaux structuraux isolant (PSI) ou coffrages isolant pour béton;"
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_murs"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Murs"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_planchers.png",
-/t/t/t/t"pageURL": "planchers",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_planchers_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_planchers"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "planchers.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Peu importe le type de structure, il est primordial de considérer le transfert des charges applicables lors d’une modification dans un plancher tel qu’un percement des solives pour le passage de composantes mécaniques, l’installation d’un escalier ou la modification d’un mur porteur, d’une poutre ou d’une colonne.",
-/t/t/t/t/t/t/t/t/t"Les services d’un ingénieur en structure et/ou d’un spécialiste en architecture sont requis afin d’évaluer les charges et proposer une modification adéquate de la structure.",
-/t/t/t/t/t/t/t/t/t"La majorité des structures de planchers des bâtiments résidentiels sont composées de solives ou de poutrelles préfabriquées en bois, d’un support de revêtement de sol et d’un revêtement de finition. Des structures de poutres en bois, d’acier ou de béton combinées à un platelage en bois, des panneaux de bois lamellé croisé (CLT) ou une dalle de béton structurale peuvent également être utilisées. Il existe aussi des structures avec poutrelles et pontages en acier.",
-/t/t/t/t/t/t/t/t/t"Tous les planchers sont supportés en périphérie par les murs extérieurs, les fondations ou un système de poutres et colonnes. Il est souvent nécessaire d’ajouter des supports à l’intérieur du bâtiment afin de combler les portées entre les murs extérieurs tout en évitant d’utiliser des solives, des poutres ou des poutrelles surdimensionnées très couteuses et encombrantes. Les supports de plancher à l’intérieur sont soit sous la forme d’un mur porteur ou de poutres et colonnes.",
-/t/t/t/t/t/t/t/t/t"Un mur porteur est un mur intérieur sur lequel le plancher ou le toit est appuyé. Il est impossible de différencier un mur porteur d’un mur non porteur sans faire une étude approfondie de l’ensemble du système structural du bâtiment. La structure interne d’un mur porteur est légèrement différente d’un mur non porteur. Un mur porteur au-dessus du sous-sol doit être aligné avec un mur porteur ou un système de poutres et colonnes aux étages inférieurs afin de transférer les charges vers les fondations. Un mur porteur au sous-sol doit transférer ses charges sur une semelle de fondation isolée. Un appui directement sur la dalle sans semelle pourrait provoquer un affaissement de l’ensemble de la structure.",
-/t/t/t/t/t/t/t/t/t"Une structure composée de poutres (composantes horizontales) et colonnes (composantes verticales) transfert les charges des planchers et de la toiture vers des semelles de fondation isolées tout en permettant un aménagement plus ouvert en raison des grandes portées des poutres. Les poutres et les colonnes peuvent être en bois brutes, composées de plusieurs pièces de bois, en bois lamellé-collé, en acier ou en béton. Une colonne au-dessus du sous-sol doit être alignée avec une colonne aux étages inférieurs afin de transférer les charges adéquatement. Un appui des colonnes directement sur la dalle sans semelle pourrait provoquer un affaissement de l’ensemble de la structure.",
-/t/t/t/t/t/t/t/t/t"Le support de revêtement de sol est habituellement constitué de contreplaqué, de panneaux de copeaux orientés (OSB) ou de planches de bois bouvetés de ± ¾ de pouces d’épaisseurs.",
-/t/t/t/t/t/t/t/t/t"Un plancher peut émettre des sons de craquement lorsque le support de revêtement de sol n’est pas fixé adéquatement sur le dessus des solives ou poutrelles. Les planchers plus âgés ont tendance à émettre des sons de craquement en raison du support de revêtement de sol qui est seulement cloué à la structure. De nos jours, le support de revêtement du sol est vissé et collé."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_planchers"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Planchers"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_toitures.png",
-/t/t/t/t"pageURL": "toitures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Toitures"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_poteaux,_poutres_et_colonnes.png",
-/t/t/t/t"pageURL": "poteaux,-poutres-et-colonnes",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Poteaux, poutres et colonnes"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Structure"
-/t},
-/t{
-/t/t"iconeSection": "warehouse",
-/t/t"id": 4,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_métallique.png",
-/t/t/t/t"pageURL": "revêtement-métallique",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_revêtement_métallique_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_revêtement_métallique"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "revêtement_métallique.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"met"
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_revêtement_métallique"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Revêtement métallique"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_stucco.png",
-/t/t/t/t"pageURL": "revêtement-de-stucco",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement de stucco"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_bois.png",
-/t/t/t/t"pageURL": "revêtement-de-bois",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement de bois"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_composite.png",
-/t/t/t/t"pageURL": "revêtement-composite",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement composite"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_maçonnerie.png",
-/t/t/t/t"pageURL": "revêtement-de-maçonnerie",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement de maçonnerie"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_vinyle.png",
-/t/t/t/t"pageURL": "revêtement-de-vinyle",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement de vinyle"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_sife.png",
-/t/t/t/t"pageURL": "revêtement-sife",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement SIFE"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_installation_des_revêtements.png",
-/t/t/t/t"pageURL": "installation-des-revêtements",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Installation des revêtements"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_joints_d’étanchéité.png",
-/t/t/t/t"pageURL": "joints-d’étanchéité",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Joints d’étanchéité"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_portes.png",
-/t/t/t/t"pageURL": "portes",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Portes"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fenêtres.png",
-/t/t/t/t"pageURL": "fenêtres",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Fenêtres"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Surfaces Extérieures des Murs"
-/t},
-/t{
-/t/t"iconeSection": "roofing",
-/t/t"id": 5,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_bardeau.png",
-/t/t/t/t"pageURL": "revêtement-de-bardeau",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_revêtement_de_bardeau_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_revêtement_de_bardeau"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "revêtement_de_bardeau.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"bar"
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_revêtement_de_bardeau"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Revêtement de bardeau"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_bois.png",
-/t/t/t/t"pageURL": "revêtement-de-bois",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement de bois"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_métallique.png",
-/t/t/t/t"pageURL": "revêtement-métallique",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement métallique"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_d’asphalte_multicouche.png",
-/t/t/t/t"pageURL": "revêtement-d’asphalte-multicouche",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement d’asphalte multicouche"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_de_membrane.png",
-/t/t/t/t"pageURL": "revêtement-de-membrane",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement de membrane"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_revêtement_composite.png",
-/t/t/t/t"pageURL": "revêtement-composite",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Revêtement composite"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_pentes.png",
-/t/t/t/t"pageURL": "pentes",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Pentes"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_débords_de_toit.png",
-/t/t/t/t"pageURL": "débords-de-toit",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Débords de toit"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_parapets.png",
-/t/t/t/t"pageURL": "parapets",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Parapets"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_gouttières.png",
-/t/t/t/t"pageURL": "gouttières",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Gouttières"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_drains_de_toiture.png",
-/t/t/t/t"pageURL": "drains-de-toiture",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Drains de toiture"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_solins.png",
-/t/t/t/t"pageURL": "solins",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Solins"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_ventilation_passive_de_l’entretoit.png",
-/t/t/t/t"pageURL": "ventilation-passive-de-l’entretoit",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Ventilation passive de l’entretoit"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Toiture"
-/t},
-/t{
-/t/t"iconeSection": "temperature-outside",
-/t/t"id": 6,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fondations.png",
-/t/t/t/t"pageURL": "fondations",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_fondations_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_fondations"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "fondations.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"fon"
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_fondations"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Fondations"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_solives_de_rive.png",
-/t/t/t/t"pageURL": "solives-de-rive",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Solives de rive"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_murs_extérieurs.png",
-/t/t/t/t"pageURL": "murs-extérieurs",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Murs extérieurs"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_entretoits.png",
-/t/t/t/t"pageURL": "entretoits",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Entretoits"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_planchers.png",
-/t/t/t/t"pageURL": "planchers",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Planchers"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Isolation"
-/t},
-/t{
-/t/t"iconeSection": "wet",
-/t/t"id": 7,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_taux_d’humidité_dans_l’air.png",
-/t/t/t/t"pageURL": "taux-d’humidité-dans-l’air",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Taux d’humidité dans l’air"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_taux_d’humidité_des_surfaces.png",
-/t/t/t/t"pageURL": "taux-d’humidité-des-surfaces",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Taux d’humidité des surfaces"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_signes_d’humidité.png",
-/t/t/t/t"pageURL": "signes-d’humidité",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Signes d’humidité"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_moisissures.png",
-/t/t/t/t"pageURL": "moisissures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Moisissures"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Humidité"
-/t},
-/t{
-/t/t"iconeSection": "lightning-bolt",
-/t/t"id": 8,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_panneau_électrique.png",
-/t/t/t/t"pageURL": "panneau-électrique",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Panneau Électrique"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_installations_intérieures.png",
-/t/t/t/t"pageURL": "installations-intérieures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Installations intérieures"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_installations_extérieures.png",
-/t/t/t/t"pageURL": "installations-extérieures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Installations extérieures"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Électricité"
-/t},
-/t{
-/t/t"iconeSection": "plumbing",
-/t/t"id": 9,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_drain_de_fondation.png",
-/t/t/t/t"pageURL": "drain-de-fondation",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Drain de fondation"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_valve_d’entrée_d’eau.png",
-/t/t/t/t"pageURL": "valve-d’entrée-d’eau",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Valve d’entrée d’eau"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_clapet_anti-refoulement.png",
-/t/t/t/t"pageURL": "clapet-anti-refoulement",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Clapet anti-refoulement"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_drain_de_plancher.png",
-/t/t/t/t"pageURL": "drain-de-plancher",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Drain de plancher"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_réseaux_d’alimentation_&_drainage.png",
-/t/t/t/t"pageURL": "réseaux-d’alimentation-&-drainage",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Réseaux d’alimentation & drainage"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_évents.png",
-/t/t/t/t"pageURL": "évents",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Évents"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_puisard.png",
-/t/t/t/t"pageURL": "puisard",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Puisard"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_chauffe-eau.png",
-/t/t/t/t"pageURL": "chauffe-eau",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Chauffe-eau"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_toilettes.png",
-/t/t/t/t"pageURL": "toilettes",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Toilettes"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_bains_&_douches.png",
-/t/t/t/t"pageURL": "bains-&-douches",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Bains & douches"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_éviers_et_lavabos.png",
-/t/t/t/t"pageURL": "éviers-et-lavabos",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Éviers et lavabos"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_sorties_d’eau_extérieures.png",
-/t/t/t/t"pageURL": "sorties-d’eau-extérieures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Sorties d’eau extérieures"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_caniveaux.png",
-/t/t/t/t"pageURL": "caniveaux",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Caniveaux"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fosses_de_rétention.png",
-/t/t/t/t"pageURL": "fosses-de-rétention",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Fosses de rétention"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Plomberie"
-/t},
-/t{
-/t/t"iconeSection": "heating",
-/t/t"id": 10,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_radiateurs_électriques.png",
-/t/t/t/t"pageURL": "radiateurs-électriques",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Radiateurs électriques"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fournaise_centrale_à_air_pulsé.png",
-/t/t/t/t"pageURL": "fournaise-centrale-à-air-pulsé",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Fournaise centrale à air pulsé"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_chaudière_centrale.png",
-/t/t/t/t"pageURL": "chaudière-centrale",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Chaudière centrale"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_surfaces_radiantes.png",
-/t/t/t/t"pageURL": "surfaces-radiantes",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Surfaces radiantes"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_thermopompes.png",
-/t/t/t/t"pageURL": "thermopompes",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Thermopompes"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_climatiseurs.png",
-/t/t/t/t"pageURL": "climatiseurs",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Climatiseurs"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_foyers_à_combustion.png",
-/t/t/t/t"pageURL": "foyers-à-combustion",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Foyers à combustion"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_ventilateurs_extracteurs_d’air.png",
-/t/t/t/t"pageURL": "ventilateurs-extracteurs-d’air",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Ventilateurs extracteurs d’air"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_échangeur_d’air.png",
-/t/t/t/t"pageURL": "échangeur-d’air",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Échangeur d’air"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_conduits_et_clapets_de_ventilation.png",
-/t/t/t/t"pageURL": "conduits-et-clapets-de-ventilation",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Conduits et clapets de ventilation"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Chauffage & Ventilation"
-/t},
-/t{
-/t/t"iconeSection": "slippery-floor",
-/t/t"id": 11,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_escaliers_&_gardes-corps.png",
-/t/t/t/t"pageURL": "escaliers-&-gardes-corps",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Escaliers & gardes-corps"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_protection_incendie.png",
-/t/t/t/t"pageURL": "protection-incendie",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Protection incendie"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_gaz_dangereux.png",
-/t/t/t/t"pageURL": "gaz-dangereux",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Gaz dangereux"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_risques_de_blessures.png",
-/t/t/t/t"pageURL": "risques-de-blessures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Risques de blessures"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Sécurité des Occupants"
-/t},
-/t{
-/t/t"iconeSection": "rat-silhouette",
-/t/t"id": 12,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_finitions.png",
-/t/t/t/t"pageURL": "finitions",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Finitions"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_comptoirs_&_cabinets.png",
-/t/t/t/t"pageURL": "comptoirs-&-cabinets",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Comptoirs & cabinets"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_portes_&_fenêtres_intérieures.png",
-/t/t/t/t"pageURL": "portes-&-fenêtres-intérieures",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Portes & fenêtres intérieures"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_parasites.png",
-/t/t/t/t"pageURL": "parasites",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Parasites"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_autres.png",
-/t/t/t/t"pageURL": "autres",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Autres"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Anomalies Intérieures"
-/t},
-/t{
-/t/t"iconeSection": "residence",
-/t/t"id": 13,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_vide_sanitaire.png",
-/t/t/t/t"pageURL": "vide-sanitaire",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Vide Sanitaire"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_chambre_froide.png",
-/t/t/t/t"pageURL": "chambre-froide",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Chambre Froide"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_maison_ancienne.png",
-/t/t/t/t"pageURL": "maison-ancienne",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Maison ancienne"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_maison_mobile.png",
-/t/t/t/t"pageURL": "maison-mobile",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Maison mobile"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_plancher_surélevé.png",
-/t/t/t/t"pageURL": "plancher-surélevé",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Plancher surélevé"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_puits_de_lumière.png",
-/t/t/t/t"pageURL": "puits-de-lumière",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Puits de lumière"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_cheminées.png",
-/t/t/t/t"pageURL": "cheminées",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Cheminées"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_toiture_terrasse.png",
-/t/t/t/t"pageURL": "toiture-terrasse",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Toiture Terrasse"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_fosse_septique_&_puits_artésien.png",
-/t/t/t/t"pageURL": "fosse-septique-&-puits-artésien",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Fosse septique & Puits artésien"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Particularités"
-/t},
-/t{
-/t/t"iconeSection": "apartment",
-/t/t"id": 14,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_galeries.png",
-/t/t/t/t"pageURL": "galeries",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Galeries"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_balcons.png",
-/t/t/t/t"pageURL": "balcons",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Balcons"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_perrons.png",
-/t/t/t/t"pageURL": "perrons",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Perrons"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_garage.png",
-/t/t/t/t"pageURL": "garage",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Garage"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_entrée_indépendante_au_sous-sol.png",
-/t/t/t/t"pageURL": "entrée-indépendante-au-sous-sol",
-/t/t/t/t"paragraphes": [
-/t/t/t/t/t{
-/t/t/t/t/t/t"imageParagraphe": {
-/t/t/t/t/t/t/t"imageURL": "image_entrée_indépendante_au_sous-sol_1.jpg",
-/t/t/t/t/t/t/t"titreImage": "titre_image_entrée_indépendante_au_sous-sol"
-/t/t/t/t/t/t},
-/t/t/t/t/t/t"liens": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"icone": "link",
-/t/t/t/t/t/t/t/t"lienURL": "entrée_indépendante_au_sous-sol.com",
-/t/t/t/t/t/t/t/t"texte": "lien"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t{
-/t/t/t/t/t/t/t/t"style": "normal",
-/t/t/t/t/t/t/t/t"texte": [
-/t/t/t/t/t/t/t/t/t"Tel qu’indiqué sur le site de la SCHL, une cage d’escalier menant sur une entrée indépendante dans un sous-sol se doit d’être convenablement installée pour éviter tout risque d’infiltration d’eau.",
-/t/t/t/t/t/t/t/t/t"S’il s’agit d’une nouvelle construction, il serait préférable de construire un mur de gel sous la porte d’entrée du sous-sol qui dépasserait la porte de trois à quatre pieds minimum.  ",
-/t/t/t/t/t/t/t/t/t"S’il s’agit d’une construction déjà existante, il serait alors préférable d’isoler l’installation avec des panneaux d’isolant rigide extrudé.  ",
-/t/t/t/t/t/t/t/t/t"Préparation du terrain :",
-/t/t/t/t/t/t/t/t/t"Il est important d’excaver jusqu’au bas de la semelle déjà existante pour s’assurer que les le mur de fondation existant de la maison sera soumis aux mêmes conditions de gel que le mur qui sera construit.  ",
-/t/t/t/t/t/t/t/t/t"Il doit y avoir au moins 8 à 10 pouces de 0-¾ bien compacté sous la nouvelle semelle.",
-/t/t/t/t/t/t/t/t/t"Par la suite, il est préférable d’installer un panneau isolant rigide extrudé d’au moins 4 pouces entre le 0-¾ et la semelle. Le haut de la semelle doit arriver au même niveau que celle déjà existante.",
-/t/t/t/t/t/t/t/t/t"Une fois la semelle en place, il est important d’installer le drain français (drain agricole) du côté extérieur de la semelle. Il est aussi important de prévoir un drain de plancher de type cheminée (idéalement pour éviter qu’il soit obstrué par la neige ou la glace) qui sera lui aussi raccordé au système d’égout pluvial.  ",
-/t/t/t/t/t/t/t/t/t"Par la suite, il faut ajouter du gravier de type ¾ net pour combler le vide entre les deux semelles ainsi que par-dessus le drain agricole de façon à assurer le bon drainage du terrain, évitant ainsi toute infiltration d’eau.",
-/t/t/t/t/t/t/t/t/t"Les formes pour recevoir le nouveau mur de fondation sont maintenant prêtes à être installées et le béton prêt à être coulé (pour une meilleure solidité, des armatures de métal peuvent être installées avant de couler le béton des murs de fondation pour plus de solidité)."
-/t/t/t/t/t/t/t/t],
-/t/t/t/t/t/t/t/t"titreTexte": "titre_texte"
-/t/t/t/t/t/t/t}
-/t/t/t/t/t/t],
-/t/t/t/t/t/t"titreParagraphe": "titre_entrée_indépendante_au_sous-sol"
-/t/t/t/t/t}
-/t/t/t/t],
-/t/t/t/t"titrePage": "Entrée indépendante au sous-sol"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_abris_automobile.png",
-/t/t/t/t"pageURL": "abris-automobile",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Abris automobile"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_solarium.png",
-/t/t/t/t"pageURL": "solarium",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Solarium"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Constructions Annexées"
-/t},
-/t{
-/t/t"iconeSection": "wrench",
-/t/t"id": 15,
-/t/t"pages": [
-/t/t/t{
-/t/t/t/t"iconePage": "icone_percée_exploratoire.png",
-/t/t/t/t"pageURL": "percée-exploratoire",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Percée exploratoire"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_caméra_de_drain.png",
-/t/t/t/t"pageURL": "caméra-de-drain",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Caméra de drain"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_tests_d’eau.png",
-/t/t/t/t"pageURL": "tests-d’eau",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Tests d’eau"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_test_d’étanchéité_à_l’air.png",
-/t/t/t/t"pageURL": "test-d’étanchéité-à-l’air",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Test d’étanchéité à l’air"
-/t/t/t},
-/t/t/t{
-/t/t/t/t"iconePage": "icone_analyse_de_la_qualité_de_l’air.png",
-/t/t/t/t"pageURL": "analyse-de-la-qualité-de-l’air",
-/t/t/t/t"paragraphes": [],
-/t/t/t/t"titrePage": "Analyse de la qualité de l’air"
-/t/t/t}
-/t/t],
-/t/t"titreSection": "Services Complémentaires"
-/t}
+	{
+		"iconeSection": "heat-map",
+		"id": 1,
+		"pages": [],
+		"titreSection": "La thermographie"
+	},
+	{
+		"iconeSection": "grass",
+		"id": 2,
+		"pages": [
+			{
+				"iconePage": "icone_topographie.png",
+				"pageURL": "topographie",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_topographie_1.jpg",
+							"titreImage": "titre_image_topographie"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "topographie.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
+									"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
+									"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
+									"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
+									"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
+									"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
+								],
+								"titreTexte": "Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter."
+							}
+						],
+						"titreParagraphe": "Pentes autour du bâtiment"
+					},
+					{
+						"imageParagraphe": {
+							"imageURL": "image_topographie_2.jpg",
+							"titreImage": "titre_image_topographie"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "topographie.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "ul",
+								"texte": [
+									"Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter. La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment. ",
+									"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
+									"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
+									"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
+									"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
+									"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "Fortes pentes"
+					},
+					{
+						"imageParagraphe": {
+							"imageURL": "image_topographie_3.jpg",
+							"titreImage": "titre_image_topographie"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "topographie.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "ol",
+								"texte": [
+									"Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter. La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment. ",
+									"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
+									"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
+									"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
+									"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
+									"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "Installation d'un drainage de surface"
+					},
+					{
+						"imageParagraphe": {
+							"imageURL": "image_topographie_4.png",
+							"titreImage": "titre_image_topographie"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "topographie.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Toute zone ou <span class='font-weight-bold'>cavité</span> où se crée de l’accumulation d’eau près du bâtiment est à éviter. La topographie générale du terrain devrait éloigner les eaux de surface du bâtiment. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment. ",
+									"La qualité générale du drainage d'un terrain aura une incidence déterminante sur la longévité des composantes du bâtiment et préviendra les dommages occasionnés par le gel et l'érosion. Un mauvais drainage pourrait également solliciter anormalement le drainage des fondations et favoriser des infiltrations d’eau et des excès d’humidité au sous-sol.",
+									"Il est recommandé de valider le bon écoulement des eaux de surfaces en périphérie du bâtiment lors de la fonte des neiges ou d’une forte pluie.",
+									"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de corriger la topographie et éloigner l’eau du bâtiment.",
+									"Un drain de surface peut limiter l’accumulation d’eau en périphérie du bâtiment en présence d’une faible pente ou lorsque le bâtiment est à la base d’un cap, limitant les modifications au niveau des pentes de la topographie. L’eau pourra être dirigé vers la rue si la règlementation municipale le permet ou dans un bassin de rétention, un système de récupération des eaux de pluie, un puits percolant, un fossé végétalisé ou un jardin de pluie installé à un minimum de 6 pieds des fondations du bâtiment.",
+									"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourrait être requis afin d’installer un drain de surface."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_topographie"
+					}
+				],
+				"titrePage": "Topographie"
+			},
+			{
+				"iconePage": "icone_surfaces_de_circulation.png",
+				"pageURL": "surfaces-de-circulation",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_surfaces_de_circulation_1.jpg",
+							"titreImage": "titre_image_surfaces_de_circulation"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "surfaces_de_circulation.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Il est essentiel que les pentes des surfaces de circulation en périphérie du bâtiment éloignent l’eau des fondations. Un drain linéaire favorisera un drainage adéquat des eaux en présence d’un pavé avec une pente dirigeant l’eau vers le bâtiment.",
+									"La déformation d’une surface de circulation extérieure est souvent liée à la piètre qualité de la composition et/ou la mauvaise compaction du sol sous les surfaces de finition. Les déformations favorisent une accumulation d’eau et une usure prématurée des surfaces. ",
+									"Le support des surfaces de circulation adossées au bâtiment et à moins de 8 pouces de la base des revêtements extérieurs doit impérativement permettre une circulation d’air et une évacuation adéquate de l’eau. ",
+									"Les services de spécialistes en aménagement paysager et/ou en excavation pourraient être requis pour corriger les déformations et/ou le support des surfaces de circulation."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_surfaces_de_circulation"
+					}
+				],
+				"titrePage": "Surfaces de circulation"
+			},
+			{
+				"iconePage": "icone_végétation.png",
+				"pageURL": "végétation",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_végétation_1.png",
+							"titreImage": "titre_image_végétation"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "végétation.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "ul",
+								"texte": [
+									"Le substrat humide nécessaire pour la croissance des végétaux augmente les risques d’infiltration d’eau dans le bâtiment, l’usure prématurée des matériaux à proximité et la présence de parasites.",
+									"Les végétaux sont une source d’humidité pouvant causer une usure prématurée des matériaux et limitent la circulation d’air permettant un assèchement des surfaces.",
+									"Les plantes grimpantes peuvent endommager la surface des matériaux et pénétrer derrière les revêtements extérieurs non étanche ou par les ouvertures nécessaires pour l’écran pare-pluie.",
+									"Le système racinaire envahissant de certaines plantations peut endommager les fondations et boucher les drains pluviaux.",
+									"Les arbres surplombant les toitures favorisent l’accumulation de débris végétal pouvant causer une usure prématurée des revêtements de toiture et boucher les drains de toiture et gouttières.",
+									"Les végétaux attirent naturellement les parasites. La décomposition de végétaux ou de souches peut attirer les fourmis charpentières à proximité du bâtiment.",
+									"Il est recommandé d’installer les aménagements paysager à 6 pieds des fondations. On recherchera plutôt un sol se drainant le mieux possible au pourtour des fondations ou une pente imperméable éloignant l’eau sur 6 pieds. ",
+									"Les services d’un spécialiste en aménagement paysager pourraient être requis afin de déplacer la végétation à proximité du bâtiment."
+								],
+								"titreTexte": "Les aménagements paysager à proximité d’un bâtiment peuvent être la cause de plusieurs problématiques :"
+							}
+						],
+						"titreParagraphe": "Proximité du bâtiment"
+					}
+				],
+				"titrePage": "Végétation"
+			},
+			{
+				"iconePage": "icone_ouvertures_au_niveau_du_sol.png",
+				"pageURL": "ouvertures-au-niveau-du-sol",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_ouvertures_au_niveau_du_sol_1.png",
+							"titreImage": "titre_image_ouvertures_au_niveau_du_sol"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "ouvertures_au_niveau_du_sol.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"La distance recommandée est de 8 pouces entre la base d’une ouverture et le niveau du sol. Lorsque cette distance est inférieure, il faut installer des margelles afin d’abaisser le niveau du sol. Même dans le cas des ouvertures électriques ou autres pour entrer un système dans le bâtiment, nous recommandons d’installer un dispositif comparable aux margelles. ",
+									"Il sera nécessaire de retirer annuellement les débris dans les margelles pour éviter les accumulations d’eau et maintenir une distance de 8 pouces ou plus entre le niveau du sol dans la margelle et l’ouverture.",
+									"Il faut s’assurer que le sol de la margelle est constitué d’un matériau granulaire perméable (exemple : gravier type ¾ net) sur une profondeur de 12 pouces afin de permettre un drainage adéquat. Certaines margelles sont équipées d’un tuyau perforé relié au drain de fondation pour favoriser l’évacuation des eaux. Il est judicieux de surélever le rebord de la margelle pour prévenir les chutes dans la margelle. L’utilisation de matériaux imputrescibles est recommandée. ",
+									"Si on installe une margelle devant une fenêtre de sous-sol qui dessert une chambre, cette dernière ne doit pas bloquer l’issue requise. Un dégagement minimal doit être maintenu devant la margelle afin de permettre une évacuation sécuritaire. Il est important de tenir dégager les fenêtres des chambres à coucher afin de permettre l’évacuation d’urgence en cas d’incendie.",
+									"Les services de spécialistes en aménagement paysager, en plomberie et/ou en excavation pourraient être requis afin d’installer une margelle."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_ouvertures_au_niveau_du_sol"
+					}
+				],
+				"titrePage": "Ouvertures au niveau du sol"
+			},
+			{
+				"iconePage": "icone_matériaux_à_protéger.png",
+				"pageURL": "matériaux-à-protéger",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_matériaux_à_protéger_1.jpg",
+							"titreImage": "titre_image_matériaux_à_protéger"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "matériaux_à_protéger.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Les matériaux sensibles à l’humidité tel que le bois et certains métaux ou matériaux composite doivent être protégé des intempéries à l’aide d’un traitement appropriée. Sans cette protection, la détérioration des matériaux s’accélère puisqu’ils deviennent vulnérables aux effets de l’eau et de l’humidité. La plupart des traitements sont habituellement à refaire aux 3 à 5 ans. Nettoyer bien les matériaux avant l’application du traitement et suivre les directives du fabricant afin d’augmenter sa longévité. ",
+									"Les services d’un peintre pourraient être requis afin d’appliquer les traitements.",
+									"La protection des matériaux sensibles à l’humidité s’applique à tous les ouvrages extérieurs exposés aux intempéries tel que les revêtements extérieurs, les cadrages des portes et fenêtres, les seuils de porte, les escaliers, les garde-corps et les terrasses. Les structures sous les terrasses doivent également être protégées contre les intempéries.",
+									"Idéalement, l’utilisation de matériaux plus résistants à l’humidité est recommandée pour les ouvrages exposés aux intempéries afin de limiter les entretiens nécessaires et les risques d’usures prématurées.",
+									"Afin d’éviter une humidité excessive pouvant détériorée prématurément les matériaux sensibles à l’humidité, un dégagement de 8 pouces est recommandé entre les matériaux et le niveau du sol. Il est conseillé d’utiliser une bande de mousse d’étanchéité, un papier bitume ou un étier en acier inoxydable prévu à cet effet pour séparer le bois du béton, ce dernier étant assez poreux pour absorber l’eau.",
+									"Éviter de conserver des matériaux de construction sur le sol humide ou de grande quantité de bois de chauffage à proximité du bâtiment et retirer tout bois pourri et les végétaux morts, y compris les souches, afin de ne pas attirer les parasites comme la fourmi charpentière ou favoriser la création de moisissures pouvant migrer dans le bâtiment.",
+									"La corrosion des métaux et le bois pourri pourraient réduire la capacité structurale requise pour supporter les charges de certains ouvrages, ce qui représente un risque pour les occupants. Les matériaux endommagés supportant des charges devraient être remplacer. ",
+									"Les services d’un charpentier menuisier, d’un ferblantier, d’un spécialiste en architecture et/ou d’un ingénieur en structure sont requis afin de remplacer les matériaux endommagés supportant des charges."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_matériaux_à_protéger"
+					}
+				],
+				"titrePage": "Matériaux à protéger"
+			},
+			{
+				"iconePage": "icone_murs_de_soutènement.png",
+				"pageURL": "murs-de-soutènement",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_murs_de_soutènement_1.jpg",
+							"titreImage": "titre_image_murs_de_soutènement"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "murs_de_soutènement.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Un mur de soutènement est un mur extérieur dont la fonction est de supporter latéralement le sol ou de résister à la pression d’autres matériaux afin d’éviter les glissements de terrain et contenir le sol dans un espace défini et réduit. ",
+									"Plusieurs facteurs tels que la capacité portante du sol, le type de fondations nécessaires, le drainage et la capacité structurale des matériaux utilisés sont à considérer afin d’assurer la stabilité d’un mur de soutènement. De plus, la réalisation d’un mur de soutènement est souvent soumise aux règlements municipaux d’urbanisme.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, de spécialistes en aménagement paysager et/ou en excavation pourraient être requis afin d’installer un mur de soutènement.",
+									"Prenez note qu’il est nécessaire d’inspecter annuellement ces installations afin de vérifier la stabilité et la solidité des murs. En présence de signes de déformation ou d’affaissement, il est primordial d’agir rapidement pour éviter un glissement de terrain pouvant provoquer des dommages ou des blessures importantes.",
+									"Idéalement, ces installations ne devraient pas être directement collées sur les murs de la fondation du bâtiment afin d’éviter les mouvements indésirables sur la fondation lors des cycles de gel et dégel.",
+									"Dans certains cas, les pentes peuvent être aménagées différemment afin d’éviter la construction d’un mur de soutènement. La plantation de végétaux avec un système racinaire important ou l’adoucissement des pentes sont des exemples de stratégies pouvant être appliquées."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_murs_de_soutènement"
+					}
+				],
+				"titrePage": "Murs de soutènement"
+			}
+		],
+		"titreSection": "Aménagement "
+	},
+	{
+		"iconeSection": "log-cabin",
+		"id": 3,
+		"pages": [
+			{
+				"iconePage": "icone_fondations_de_béton_coulé.png",
+				"pageURL": "fondations-de-béton-coulé",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_fondations_de_béton_coulé_1.jpg",
+							"titreImage": "titre_image_fondations_de_béton_coulé"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "http://www.fondations_de_béton_coulé.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Il n’est pas rare d’observer des fissures dans les fondations en béton coulé. Plusieurs facteurs sont à prendre en considération et une expertise est nécessaire afin de déterminer les causes des fissures. Il est impossible de déterminer lors d’une inspection sommaire si les fissures sont récentes ou n’ont pas évolué depuis plusieurs années.",
+									"Peu importe les causes, les fissures doivent être colmatées pour éviter que l’eau détériore le béton par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
+									"Les services de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
+									"La section hors-sol des murs des fondations en béton coulé doit être protégée des intempéries à l’aide d’un revêtement adéquat puisque le béton est un matériau poreux absorbant l’eau. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage.",
+									"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
+									"L’appui des semelles sous les fondations doit être adéquat et protégé du gel afin d’éviter un mouvement des fondations lors des périodes de gel/dégel. Un mouvement des fondations peut causer d’importants dégâts à l’ensemble des structures qu’elles supportent (planchers, murs extérieurs, toiture). En cas de doute, il est recommandé de consulter un spécialiste pour valider la conformité de l’installation et, si nécessaire, vous proposer des solutions pour sécuriser l’ensemble.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un spécialiste en architecture, de spécialistes en réparation de fondations et/ou en excavation sont requis afin de valider la conformité de l’installation et d’apporter les correctifs si nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Il est risqué d’installer des finitions ou un isolant au sous-sol si l’ensemble des murs des fondations n’est pas étanche et bien drainé. À noter que le bitume habituellement installé sous le niveau du sol offre une durée de vie limitée qui est estimée à ±25 ans. Il est fortement recommandé de prévoir une nouvelle imperméabilisation des fondations lorsque le bitume aura atteint sa fin de vie utile. Lors de la réfection, privilégier une membrane d’étanchéité drainante pour les fondations qui offrira une durée de vie plus longue et une meilleure protection. "
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "Fissures mineures"
+					},
+					{
+						"imageParagraphe": {
+							"imageURL": "image_fondations_de_béton_coulé_2.jpg",
+							"titreImage": "titre_image_fondations_de_béton_coulé"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "fondations_de_béton_coulé.com",
+								"texte": "lien2"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Il n’est pas rare d’observer des fissures dans les fondations en béton coulé. Plusieurs facteurs sont à prendre en considération et une expertise est nécessaire afin de déterminer les causes des fissures. Il est impossible de déterminer lors d’une inspection sommaire si les fissures sont récentes ou n’ont pas évolué depuis plusieurs années.",
+									"Peu importe les causes, les fissures doivent être colmatées pour éviter que l’eau détériore le béton par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
+									"Les services de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
+									"La section hors-sol des murs des fondations en béton coulé doit être protégée des intempéries à l’aide d’un revêtement adéquat puisque le béton est un matériau poreux absorbant l’eau. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage.",
+									"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
+									"L’appui des semelles sous les fondations doit être adéquat et protégé du gel afin d’éviter un mouvement des fondations lors des périodes de gel/dégel. Un mouvement des fondations peut causer d’importants dégâts à l’ensemble des structures qu’elles supportent (planchers, murs extérieurs, toiture). En cas de doute, il est recommandé de consulter un spécialiste pour valider la conformité de l’installation et, si nécessaire, vous proposer des solutions pour sécuriser l’ensemble.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un spécialiste en architecture, de spécialistes en réparation de fondations et/ou en excavation sont requis afin de valider la conformité de l’installation et d’apporter les correctifs si nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Il est risqué d’installer des finitions ou un isolant au sous-sol si l’ensemble des murs des fondations n’est pas étanche et bien drainé. À noter que le bitume habituellement installé sous le niveau du sol offre une durée de vie limitée qui est estimée à ±25 ans. Il est fortement recommandé de prévoir une nouvelle imperméabilisation des fondations lorsque le bitume aura atteint sa fin de vie utile. Lors de la réfection, privilégier une membrane d’étanchéité drainante pour les fondations qui offrira une durée de vie plus longue et une meilleure protection. "
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "Fissures majeures"
+					}
+				],
+				"titrePage": "Fondations de béton coulé"
+			},
+			{
+				"iconePage": "icone_fondations_de_pierres.png",
+				"pageURL": "fondations-de-pierres",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_fondations_de_pierres_1.jpg",
+							"titreImage": "titre_image_fondations_de_pierres"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "fondations_de_pierres.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Il s’agit d’une technique de construction ancestrale. Les fondations de pierres ont généralement une épaisseur de 24 à 36 pouces. Bien souvent la stabilité structurale n’est pas un problème. Cependant, à force d’être exposé à l’eau, la détérioration des joints de mortier entre les pierres favorise les infiltrations d’eau, d’air et de parasites. Bien que les fondations de ce type aient traversées les époques, il est nécessaire de restaurer ces ouvrages au fil du temps, particulièrement quand ceux-ci sont exposés à de fort ruissellement d’eau.",
+									"Les services d’un maçon pourraient être requis afin de restaurer les joints de mortier et remplacer les pierres abimées ou manquantes.",
+									"La principale faiblesse des fondations de pierres est sa perméabilité à l’humidité extérieure. La section hors-sol des murs des fondations doit être protégée des intempéries à l’aide d’un revêtement adéquat. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage. ",
+									"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
+									"Il est risqué d’installer des finitions ou un isolant au sous-sol si l’ensemble des murs des fondations n’est pas étanche et bien drainé. À noter que les fondations en pierres sont rarement imperméabilisées et drainées sous le niveau du sol. Afin de réduire les risques d’infiltrations d’eau sous le niveau du sol, privilégier une membrane d’étanchéité drainante pour les fondations qui offrira une durée de vie plus longue et une meilleure protection. ",
+									"Les services d’un maçon, d’un spécialiste en architecture, d’un plombier, de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de réaliser les travaux d’étanchéité et de drainage des fondations. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Les fissures doivent être colmatées pour éviter que l’eau détériore les pierres ou le mortier par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
+									"Les services d’un maçon, de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un maçon, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_fondations_de_pierres"
+					}
+				],
+				"titrePage": "Fondations de pierres"
+			},
+			{
+				"iconePage": "icone_fondations_de_blocs_de_béton.png",
+				"pageURL": "fondations-de-blocs-de-béton",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_fondations_de_blocs_de_béton_1.jpg",
+							"titreImage": "titre_image_fondations_de_blocs_de_béton"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "fondations_de_blocs_de_béton.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Une fondation en blocs de béton présente un risque plus élevé d’infiltration d’eau en raison de la faiblesse des joints de mortier entre les blocs. À noter qu’une fondation en bloc de béton est particulièrement sensible aux excès d‘humidité. La présence constante d’eau provoque une détérioration prématurée du mortier structural liant les blocs, pouvant ainsi compromettre l’intégrité structurale des fondations. Ce type de fondation est également plus susceptible de se déformer par la pression du sol qui gèle. La topographie permettant un drainage adéquat et la présence de gouttières éloignant l’eau des fondations sont des interventions simples et primordiales afin de réduire les risques de déformation ou d’infiltrations. Il est possible que les blocs de béton soient remplis de béton et solidifiés à l’aide de barres d’armatures. Cette technique est cependant impossible à vérifier lors d’une inspection sommaire.",
+									"Il n’est pas rare d’observer des fissures dans les fondations en blocs de béton. Plusieurs facteurs sont à prendre en considération et une expertise est nécessaire afin de déterminer les causes des fissures. Il est impossible de déterminer lors d’une inspection sommaire si les fissures sont récentes ou n’ont pas évolué depuis plusieurs années.",
+									"Peu importe les causes, les fissures doivent être colmatées pour éviter que l’eau détériore le béton ou le mortier par l’effet du gel et du dégel, augmentant les risques d’infiltrations d’eau à l’intérieur du bâtiment et/ou diminuant la capacité structurale du mur. ",
+									"Les services d’un maçon, de spécialistes en réparation de fondations et/ou en excavation pourraient être requis afin de colmater adéquatement les fissures. Il est possible que certains travaux pour dégager l’accès aux fondations nécessitent l’intervention de plusieurs autres spécialistes.",
+									"Il est conseillé d’inspecter les fissures annuellement afin de s’assurer qu’elles ne bougent pas davantage. Lorsqu’un mouvement est observé, il est important de consulter un spécialiste dans les plus brefs délais.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un maçon, de spécialistes en réparation de fondations et/ou en excavation sont requis afin d’identifier les causes des mouvements et d’apporter les correctifs nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes.",
+									"La section hors-sol des murs des fondations en blocs de béton doit être protégée des intempéries à l’aide d’un revêtement adéquat puisque le béton et le mortier sont des matériaux poreux absorbant l’eau. Une mauvaise protection peut être responsable d’un taux d’humidité élevé au sous-sol et/ou d’une détérioration prématurée des matériaux du mur de fondation. L’installation d’un revêtement résistant à l’humidité est requise pour ce type d’ouvrage.",
+									"Les services d’un spécialiste en architecture, d’un peintre, d’un spécialiste en installation de revêtements extérieurs et/ou d’un maçon pourraient être requis afin d’installer un revêtement adéquat sur les fondations hors-sol.",
+									"L’appui des semelles sous les fondations doit être adéquat et protégé du gel afin d’éviter un mouvement des fondations lors des périodes de gel/dégel. Un mouvement des fondations peut causer d’importants dégâts à l’ensemble des structures qu’elles supportent (planchers, murs extérieurs, toiture). En cas de doute, il est recommandé de consulter un spécialiste pour valider la conformité de l’installation et, si nécessaire, vous proposer des solutions pour sécuriser l’ensemble.",
+									"Les services d’ingénieurs spécialisés en structure et/ou en géotechnique, d’un spécialiste en architecture, de maçon, de spécialistes en réparation de fondations et/ou en excavation sont requis afin de valider la conformité de l’installation et d’apporter les correctifs si nécessaires. Il est possible que des anomalies majeures nécessitent l’intervention de plusieurs autres spécialistes."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_fondations_de_blocs_de_béton"
+					}
+				],
+				"titrePage": "Fondations de blocs de béton"
+			},
+			{
+				"iconePage": "icone_fondations_en_bois_traité.png",
+				"pageURL": "fondations-en-bois-traité",
+				"paragraphes": [],
+				"titrePage": "Fondations en bois traité"
+			},
+			{
+				"iconePage": "icone_fondations_sur_pieux.png",
+				"pageURL": "fondations-sur-pieux",
+				"paragraphes": [],
+				"titrePage": "Fondations sur pieux"
+			},
+			{
+				"iconePage": "icone_murs.png",
+				"pageURL": "murs",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_murs_1.jpg",
+							"titreImage": "titre_image_murs"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "murs.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Peu importe le type de structure, il est primordial de considérer le transfert des charges applicables lors d’une modification dans un mur extérieur tel que l’agrandissement ou l’ajout d’une porte ou d’une fenêtre.",
+									"Les services d’un ingénieur en structure et/ou d’un spécialiste en architecture sont requis afin d’évaluer les charges et proposer une modification adéquate de la structure.",
+									"La majorité des structures des murs extérieurs des bâtiments construit avant la 1ere guerre mondiale sont massives et ne comportent pas de cavités pour un isolant. Il n’est pas rare d’observer des murs de pierres ou de briques de ±24 pouces d’épaisseurs ou des murs en pièces de bois de ±4 pouces empilées à l’horizontale. Entretenu adéquatement, les murs massifs offrent une excellente stabilité structurale et une masse thermique intéressante. Elles sont cependant difficiles à isoler et requièrent les services d’un spécialiste en architecture afin d’établir une méthode d’isolation qui n’affectera pas l’intégrité des composantes.",
+									"La charpente à claire-voie est la première structure de murs extérieurs avec cavités pour un isolant. Les montants de bois de ±4 pouces d’épaisseur sont installés à la verticale avec un espace de ±12 pouces entre chaque montant. La particularité de cette charpente réside dans la continuité des montants de bois et des cavités entre les planchers, ce qui explique l’affaissement fréquent de l’isolant vers le bas. Les solives de plancher sont fixées sur le chant des montants et normalement supportées par une lambourde du côté intérieur. La charpente est normalement contreventée à l’aide de planches installées du côté extérieur.",
+									"Dans le 1er quart du XXe siècle, les bâtiments construits en bois délaissent graduellement la charpente à claire-voie pour l’ossature à plate-forme, une technique de construction qui est encore largement utilisée de nos jours. Les planchers sont installés sur le dessus des montants des murs à l’aide de sablières, ce qui réduit considérablement la hauteur des montants et permet une préfabrication partielle de la majorité des murs, planchers et toitures. Les montants de bois peuvent être espacés jusqu’à 24 pouces, laissant une place plus importante pour l’isolant dans les cavités murales. L’ossature à plate-forme nécessite également un contreventement, normalement sous la forme de panneaux rigides du côté extérieur.",
+									"Plusieurs autres techniques ont été développées et utilisées pour la construction des murs des bâtiments en Amérique du Nord telles que :",
+									"•\tMurs massifs en rondin de bois, en blocs de béton, en béton coulé ou en panneaux de bois lamellé-croisé (CLT);",
+									"•\tSystèmes de poutres et colonnes en bois, acier ou béton combinés à des murs isolés non porteurs, des murs rideaux ou des panneaux préfabriqués;",
+									"•\tOssatures à plate-forme en acier;",
+									"•\tPanneaux structuraux isolant (PSI) ou coffrages isolant pour béton;"
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_murs"
+					}
+				],
+				"titrePage": "Murs"
+			},
+			{
+				"iconePage": "icone_planchers.png",
+				"pageURL": "planchers",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_planchers_1.jpg",
+							"titreImage": "titre_image_planchers"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "planchers.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Peu importe le type de structure, il est primordial de considérer le transfert des charges applicables lors d’une modification dans un plancher tel qu’un percement des solives pour le passage de composantes mécaniques, l’installation d’un escalier ou la modification d’un mur porteur, d’une poutre ou d’une colonne.",
+									"Les services d’un ingénieur en structure et/ou d’un spécialiste en architecture sont requis afin d’évaluer les charges et proposer une modification adéquate de la structure.",
+									"La majorité des structures de planchers des bâtiments résidentiels sont composées de solives ou de poutrelles préfabriquées en bois, d’un support de revêtement de sol et d’un revêtement de finition. Des structures de poutres en bois, d’acier ou de béton combinées à un platelage en bois, des panneaux de bois lamellé croisé (CLT) ou une dalle de béton structurale peuvent également être utilisées. Il existe aussi des structures avec poutrelles et pontages en acier.",
+									"Tous les planchers sont supportés en périphérie par les murs extérieurs, les fondations ou un système de poutres et colonnes. Il est souvent nécessaire d’ajouter des supports à l’intérieur du bâtiment afin de combler les portées entre les murs extérieurs tout en évitant d’utiliser des solives, des poutres ou des poutrelles surdimensionnées très couteuses et encombrantes. Les supports de plancher à l’intérieur sont soit sous la forme d’un mur porteur ou de poutres et colonnes.",
+									"Un mur porteur est un mur intérieur sur lequel le plancher ou le toit est appuyé. Il est impossible de différencier un mur porteur d’un mur non porteur sans faire une étude approfondie de l’ensemble du système structural du bâtiment. La structure interne d’un mur porteur est légèrement différente d’un mur non porteur. Un mur porteur au-dessus du sous-sol doit être aligné avec un mur porteur ou un système de poutres et colonnes aux étages inférieurs afin de transférer les charges vers les fondations. Un mur porteur au sous-sol doit transférer ses charges sur une semelle de fondation isolée. Un appui directement sur la dalle sans semelle pourrait provoquer un affaissement de l’ensemble de la structure.",
+									"Une structure composée de poutres (composantes horizontales) et colonnes (composantes verticales) transfert les charges des planchers et de la toiture vers des semelles de fondation isolées tout en permettant un aménagement plus ouvert en raison des grandes portées des poutres. Les poutres et les colonnes peuvent être en bois brutes, composées de plusieurs pièces de bois, en bois lamellé-collé, en acier ou en béton. Une colonne au-dessus du sous-sol doit être alignée avec une colonne aux étages inférieurs afin de transférer les charges adéquatement. Un appui des colonnes directement sur la dalle sans semelle pourrait provoquer un affaissement de l’ensemble de la structure.",
+									"Le support de revêtement de sol est habituellement constitué de contreplaqué, de panneaux de copeaux orientés (OSB) ou de planches de bois bouvetés de ± ¾ de pouces d’épaisseurs.",
+									"Un plancher peut émettre des sons de craquement lorsque le support de revêtement de sol n’est pas fixé adéquatement sur le dessus des solives ou poutrelles. Les planchers plus âgés ont tendance à émettre des sons de craquement en raison du support de revêtement de sol qui est seulement cloué à la structure. De nos jours, le support de revêtement du sol est vissé et collé."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_planchers"
+					}
+				],
+				"titrePage": "Planchers"
+			},
+			{
+				"iconePage": "icone_toitures.png",
+				"pageURL": "toitures",
+				"paragraphes": [],
+				"titrePage": "Toitures"
+			},
+			{
+				"iconePage": "icone_poteaux,_poutres_et_colonnes.png",
+				"pageURL": "poteaux,-poutres-et-colonnes",
+				"paragraphes": [],
+				"titrePage": "Poteaux, poutres et colonnes"
+			}
+		],
+		"titreSection": "Structure"
+	},
+	{
+		"iconeSection": "warehouse",
+		"id": 4,
+		"pages": [
+			{
+				"iconePage": "icone_revêtement_métallique.png",
+				"pageURL": "revêtement-métallique",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_revêtement_métallique_1.jpg",
+							"titreImage": "titre_image_revêtement_métallique"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "revêtement_métallique.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"met"
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_revêtement_métallique"
+					}
+				],
+				"titrePage": "Revêtement métallique"
+			},
+			{
+				"iconePage": "icone_revêtement_de_stucco.png",
+				"pageURL": "revêtement-de-stucco",
+				"paragraphes": [],
+				"titrePage": "Revêtement de stucco"
+			},
+			{
+				"iconePage": "icone_revêtement_de_bois.png",
+				"pageURL": "revêtement-de-bois",
+				"paragraphes": [],
+				"titrePage": "Revêtement de bois"
+			},
+			{
+				"iconePage": "icone_revêtement_composite.png",
+				"pageURL": "revêtement-composite",
+				"paragraphes": [],
+				"titrePage": "Revêtement composite"
+			},
+			{
+				"iconePage": "icone_revêtement_de_maçonnerie.png",
+				"pageURL": "revêtement-de-maçonnerie",
+				"paragraphes": [],
+				"titrePage": "Revêtement de maçonnerie"
+			},
+			{
+				"iconePage": "icone_revêtement_de_vinyle.png",
+				"pageURL": "revêtement-de-vinyle",
+				"paragraphes": [],
+				"titrePage": "Revêtement de vinyle"
+			},
+			{
+				"iconePage": "icone_revêtement_sife.png",
+				"pageURL": "revêtement-sife",
+				"paragraphes": [],
+				"titrePage": "Revêtement SIFE"
+			},
+			{
+				"iconePage": "icone_installation_des_revêtements.png",
+				"pageURL": "installation-des-revêtements",
+				"paragraphes": [],
+				"titrePage": "Installation des revêtements"
+			},
+			{
+				"iconePage": "icone_joints_d’étanchéité.png",
+				"pageURL": "joints-d’étanchéité",
+				"paragraphes": [],
+				"titrePage": "Joints d’étanchéité"
+			},
+			{
+				"iconePage": "icone_portes.png",
+				"pageURL": "portes",
+				"paragraphes": [],
+				"titrePage": "Portes"
+			},
+			{
+				"iconePage": "icone_fenêtres.png",
+				"pageURL": "fenêtres",
+				"paragraphes": [],
+				"titrePage": "Fenêtres"
+			}
+		],
+		"titreSection": "Surfaces Extérieures des Murs"
+	},
+	{
+		"iconeSection": "roofing",
+		"id": 5,
+		"pages": [
+			{
+				"iconePage": "icone_revêtement_de_bardeau.png",
+				"pageURL": "revêtement-de-bardeau",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_revêtement_de_bardeau_1.jpg",
+							"titreImage": "titre_image_revêtement_de_bardeau"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "revêtement_de_bardeau.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"bar"
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_revêtement_de_bardeau"
+					}
+				],
+				"titrePage": "Revêtement de bardeau"
+			},
+			{
+				"iconePage": "icone_revêtement_de_bois.png",
+				"pageURL": "revêtement-de-bois",
+				"paragraphes": [],
+				"titrePage": "Revêtement de bois"
+			},
+			{
+				"iconePage": "icone_revêtement_métallique.png",
+				"pageURL": "revêtement-métallique",
+				"paragraphes": [],
+				"titrePage": "Revêtement métallique"
+			},
+			{
+				"iconePage": "icone_revêtement_d’asphalte_multicouche.png",
+				"pageURL": "revêtement-d’asphalte-multicouche",
+				"paragraphes": [],
+				"titrePage": "Revêtement d’asphalte multicouche"
+			},
+			{
+				"iconePage": "icone_revêtement_de_membrane.png",
+				"pageURL": "revêtement-de-membrane",
+				"paragraphes": [],
+				"titrePage": "Revêtement de membrane"
+			},
+			{
+				"iconePage": "icone_revêtement_composite.png",
+				"pageURL": "revêtement-composite",
+				"paragraphes": [],
+				"titrePage": "Revêtement composite"
+			},
+			{
+				"iconePage": "icone_pentes.png",
+				"pageURL": "pentes",
+				"paragraphes": [],
+				"titrePage": "Pentes"
+			},
+			{
+				"iconePage": "icone_débords_de_toit.png",
+				"pageURL": "débords-de-toit",
+				"paragraphes": [],
+				"titrePage": "Débords de toit"
+			},
+			{
+				"iconePage": "icone_parapets.png",
+				"pageURL": "parapets",
+				"paragraphes": [],
+				"titrePage": "Parapets"
+			},
+			{
+				"iconePage": "icone_gouttières.png",
+				"pageURL": "gouttières",
+				"paragraphes": [],
+				"titrePage": "Gouttières"
+			},
+			{
+				"iconePage": "icone_drains_de_toiture.png",
+				"pageURL": "drains-de-toiture",
+				"paragraphes": [],
+				"titrePage": "Drains de toiture"
+			},
+			{
+				"iconePage": "icone_solins.png",
+				"pageURL": "solins",
+				"paragraphes": [],
+				"titrePage": "Solins"
+			},
+			{
+				"iconePage": "icone_ventilation_passive_de_l’entretoit.png",
+				"pageURL": "ventilation-passive-de-l’entretoit",
+				"paragraphes": [],
+				"titrePage": "Ventilation passive de l’entretoit"
+			}
+		],
+		"titreSection": "Toiture"
+	},
+	{
+		"iconeSection": "temperature-outside",
+		"id": 6,
+		"pages": [
+			{
+				"iconePage": "icone_fondations.png",
+				"pageURL": "fondations",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_fondations_1.jpg",
+							"titreImage": "titre_image_fondations"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "fondations.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"fon"
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_fondations"
+					}
+				],
+				"titrePage": "Fondations"
+			},
+			{
+				"iconePage": "icone_solives_de_rive.png",
+				"pageURL": "solives-de-rive",
+				"paragraphes": [],
+				"titrePage": "Solives de rive"
+			},
+			{
+				"iconePage": "icone_murs_extérieurs.png",
+				"pageURL": "murs-extérieurs",
+				"paragraphes": [],
+				"titrePage": "Murs extérieurs"
+			},
+			{
+				"iconePage": "icone_entretoits.png",
+				"pageURL": "entretoits",
+				"paragraphes": [],
+				"titrePage": "Entretoits"
+			},
+			{
+				"iconePage": "icone_planchers.png",
+				"pageURL": "planchers",
+				"paragraphes": [],
+				"titrePage": "Planchers"
+			}
+		],
+		"titreSection": "Isolation"
+	},
+	{
+		"iconeSection": "wet",
+		"id": 7,
+		"pages": [
+			{
+				"iconePage": "icone_taux_d’humidité_dans_l’air.png",
+				"pageURL": "taux-d’humidité-dans-l’air",
+				"paragraphes": [],
+				"titrePage": "Taux d’humidité dans l’air"
+			},
+			{
+				"iconePage": "icone_taux_d’humidité_des_surfaces.png",
+				"pageURL": "taux-d’humidité-des-surfaces",
+				"paragraphes": [],
+				"titrePage": "Taux d’humidité des surfaces"
+			},
+			{
+				"iconePage": "icone_signes_d’humidité.png",
+				"pageURL": "signes-d’humidité",
+				"paragraphes": [],
+				"titrePage": "Signes d’humidité"
+			},
+			{
+				"iconePage": "icone_moisissures.png",
+				"pageURL": "moisissures",
+				"paragraphes": [],
+				"titrePage": "Moisissures"
+			}
+		],
+		"titreSection": "Humidité"
+	},
+	{
+		"iconeSection": "lightning-bolt",
+		"id": 8,
+		"pages": [
+			{
+				"iconePage": "icone_panneau_électrique.png",
+				"pageURL": "panneau-électrique",
+				"paragraphes": [],
+				"titrePage": "Panneau Électrique"
+			},
+			{
+				"iconePage": "icone_installations_intérieures.png",
+				"pageURL": "installations-intérieures",
+				"paragraphes": [],
+				"titrePage": "Installations intérieures"
+			},
+			{
+				"iconePage": "icone_installations_extérieures.png",
+				"pageURL": "installations-extérieures",
+				"paragraphes": [],
+				"titrePage": "Installations extérieures"
+			}
+		],
+		"titreSection": "Électricité"
+	},
+	{
+		"iconeSection": "plumbing",
+		"id": 9,
+		"pages": [
+			{
+				"iconePage": "icone_drain_de_fondation.png",
+				"pageURL": "drain-de-fondation",
+				"paragraphes": [],
+				"titrePage": "Drain de fondation"
+			},
+			{
+				"iconePage": "icone_valve_d’entrée_d’eau.png",
+				"pageURL": "valve-d’entrée-d’eau",
+				"paragraphes": [],
+				"titrePage": "Valve d’entrée d’eau"
+			},
+			{
+				"iconePage": "icone_clapet_anti-refoulement.png",
+				"pageURL": "clapet-anti-refoulement",
+				"paragraphes": [],
+				"titrePage": "Clapet anti-refoulement"
+			},
+			{
+				"iconePage": "icone_drain_de_plancher.png",
+				"pageURL": "drain-de-plancher",
+				"paragraphes": [],
+				"titrePage": "Drain de plancher"
+			},
+			{
+				"iconePage": "icone_réseaux_d’alimentation_&_drainage.png",
+				"pageURL": "réseaux-d’alimentation-&-drainage",
+				"paragraphes": [],
+				"titrePage": "Réseaux d’alimentation & drainage"
+			},
+			{
+				"iconePage": "icone_évents.png",
+				"pageURL": "évents",
+				"paragraphes": [],
+				"titrePage": "Évents"
+			},
+			{
+				"iconePage": "icone_puisard.png",
+				"pageURL": "puisard",
+				"paragraphes": [],
+				"titrePage": "Puisard"
+			},
+			{
+				"iconePage": "icone_chauffe-eau.png",
+				"pageURL": "chauffe-eau",
+				"paragraphes": [],
+				"titrePage": "Chauffe-eau"
+			},
+			{
+				"iconePage": "icone_toilettes.png",
+				"pageURL": "toilettes",
+				"paragraphes": [],
+				"titrePage": "Toilettes"
+			},
+			{
+				"iconePage": "icone_bains_&_douches.png",
+				"pageURL": "bains-&-douches",
+				"paragraphes": [],
+				"titrePage": "Bains & douches"
+			},
+			{
+				"iconePage": "icone_éviers_et_lavabos.png",
+				"pageURL": "éviers-et-lavabos",
+				"paragraphes": [],
+				"titrePage": "Éviers et lavabos"
+			},
+			{
+				"iconePage": "icone_sorties_d’eau_extérieures.png",
+				"pageURL": "sorties-d’eau-extérieures",
+				"paragraphes": [],
+				"titrePage": "Sorties d’eau extérieures"
+			},
+			{
+				"iconePage": "icone_caniveaux.png",
+				"pageURL": "caniveaux",
+				"paragraphes": [],
+				"titrePage": "Caniveaux"
+			},
+			{
+				"iconePage": "icone_fosses_de_rétention.png",
+				"pageURL": "fosses-de-rétention",
+				"paragraphes": [],
+				"titrePage": "Fosses de rétention"
+			}
+		],
+		"titreSection": "Plomberie"
+	},
+	{
+		"iconeSection": "heating",
+		"id": 10,
+		"pages": [
+			{
+				"iconePage": "icone_radiateurs_électriques.png",
+				"pageURL": "radiateurs-électriques",
+				"paragraphes": [],
+				"titrePage": "Radiateurs électriques"
+			},
+			{
+				"iconePage": "icone_fournaise_centrale_à_air_pulsé.png",
+				"pageURL": "fournaise-centrale-à-air-pulsé",
+				"paragraphes": [],
+				"titrePage": "Fournaise centrale à air pulsé"
+			},
+			{
+				"iconePage": "icone_chaudière_centrale.png",
+				"pageURL": "chaudière-centrale",
+				"paragraphes": [],
+				"titrePage": "Chaudière centrale"
+			},
+			{
+				"iconePage": "icone_surfaces_radiantes.png",
+				"pageURL": "surfaces-radiantes",
+				"paragraphes": [],
+				"titrePage": "Surfaces radiantes"
+			},
+			{
+				"iconePage": "icone_thermopompes.png",
+				"pageURL": "thermopompes",
+				"paragraphes": [],
+				"titrePage": "Thermopompes"
+			},
+			{
+				"iconePage": "icone_climatiseurs.png",
+				"pageURL": "climatiseurs",
+				"paragraphes": [],
+				"titrePage": "Climatiseurs"
+			},
+			{
+				"iconePage": "icone_foyers_à_combustion.png",
+				"pageURL": "foyers-à-combustion",
+				"paragraphes": [],
+				"titrePage": "Foyers à combustion"
+			},
+			{
+				"iconePage": "icone_ventilateurs_extracteurs_d’air.png",
+				"pageURL": "ventilateurs-extracteurs-d’air",
+				"paragraphes": [],
+				"titrePage": "Ventilateurs extracteurs d’air"
+			},
+			{
+				"iconePage": "icone_échangeur_d’air.png",
+				"pageURL": "échangeur-d’air",
+				"paragraphes": [],
+				"titrePage": "Échangeur d’air"
+			},
+			{
+				"iconePage": "icone_conduits_et_clapets_de_ventilation.png",
+				"pageURL": "conduits-et-clapets-de-ventilation",
+				"paragraphes": [],
+				"titrePage": "Conduits et clapets de ventilation"
+			}
+		],
+		"titreSection": "Chauffage & Ventilation"
+	},
+	{
+		"iconeSection": "slippery-floor",
+		"id": 11,
+		"pages": [
+			{
+				"iconePage": "icone_escaliers_&_gardes-corps.png",
+				"pageURL": "escaliers-&-gardes-corps",
+				"paragraphes": [],
+				"titrePage": "Escaliers & gardes-corps"
+			},
+			{
+				"iconePage": "icone_protection_incendie.png",
+				"pageURL": "protection-incendie",
+				"paragraphes": [],
+				"titrePage": "Protection incendie"
+			},
+			{
+				"iconePage": "icone_gaz_dangereux.png",
+				"pageURL": "gaz-dangereux",
+				"paragraphes": [],
+				"titrePage": "Gaz dangereux"
+			},
+			{
+				"iconePage": "icone_risques_de_blessures.png",
+				"pageURL": "risques-de-blessures",
+				"paragraphes": [],
+				"titrePage": "Risques de blessures"
+			}
+		],
+		"titreSection": "Sécurité des Occupants"
+	},
+	{
+		"iconeSection": "rat-silhouette",
+		"id": 12,
+		"pages": [
+			{
+				"iconePage": "icone_finitions.png",
+				"pageURL": "finitions",
+				"paragraphes": [],
+				"titrePage": "Finitions"
+			},
+			{
+				"iconePage": "icone_comptoirs_&_cabinets.png",
+				"pageURL": "comptoirs-&-cabinets",
+				"paragraphes": [],
+				"titrePage": "Comptoirs & cabinets"
+			},
+			{
+				"iconePage": "icone_portes_&_fenêtres_intérieures.png",
+				"pageURL": "portes-&-fenêtres-intérieures",
+				"paragraphes": [],
+				"titrePage": "Portes & fenêtres intérieures"
+			},
+			{
+				"iconePage": "icone_parasites.png",
+				"pageURL": "parasites",
+				"paragraphes": [],
+				"titrePage": "Parasites"
+			},
+			{
+				"iconePage": "icone_autres.png",
+				"pageURL": "autres",
+				"paragraphes": [],
+				"titrePage": "Autres"
+			}
+		],
+		"titreSection": "Anomalies Intérieures"
+	},
+	{
+		"iconeSection": "residence",
+		"id": 13,
+		"pages": [
+			{
+				"iconePage": "icone_vide_sanitaire.png",
+				"pageURL": "vide-sanitaire",
+				"paragraphes": [],
+				"titrePage": "Vide Sanitaire"
+			},
+			{
+				"iconePage": "icone_chambre_froide.png",
+				"pageURL": "chambre-froide",
+				"paragraphes": [],
+				"titrePage": "Chambre Froide"
+			},
+			{
+				"iconePage": "icone_maison_ancienne.png",
+				"pageURL": "maison-ancienne",
+				"paragraphes": [],
+				"titrePage": "Maison ancienne"
+			},
+			{
+				"iconePage": "icone_maison_mobile.png",
+				"pageURL": "maison-mobile",
+				"paragraphes": [],
+				"titrePage": "Maison mobile"
+			},
+			{
+				"iconePage": "icone_plancher_surélevé.png",
+				"pageURL": "plancher-surélevé",
+				"paragraphes": [],
+				"titrePage": "Plancher surélevé"
+			},
+			{
+				"iconePage": "icone_puits_de_lumière.png",
+				"pageURL": "puits-de-lumière",
+				"paragraphes": [],
+				"titrePage": "Puits de lumière"
+			},
+			{
+				"iconePage": "icone_cheminées.png",
+				"pageURL": "cheminées",
+				"paragraphes": [],
+				"titrePage": "Cheminées"
+			},
+			{
+				"iconePage": "icone_toiture_terrasse.png",
+				"pageURL": "toiture-terrasse",
+				"paragraphes": [],
+				"titrePage": "Toiture Terrasse"
+			},
+			{
+				"iconePage": "icone_fosse_septique_&_puits_artésien.png",
+				"pageURL": "fosse-septique-&-puits-artésien",
+				"paragraphes": [],
+				"titrePage": "Fosse septique & Puits artésien"
+			}
+		],
+		"titreSection": "Particularités"
+	},
+	{
+		"iconeSection": "apartment",
+		"id": 14,
+		"pages": [
+			{
+				"iconePage": "icone_galeries.png",
+				"pageURL": "galeries",
+				"paragraphes": [],
+				"titrePage": "Galeries"
+			},
+			{
+				"iconePage": "icone_balcons.png",
+				"pageURL": "balcons",
+				"paragraphes": [],
+				"titrePage": "Balcons"
+			},
+			{
+				"iconePage": "icone_perrons.png",
+				"pageURL": "perrons",
+				"paragraphes": [],
+				"titrePage": "Perrons"
+			},
+			{
+				"iconePage": "icone_garage.png",
+				"pageURL": "garage",
+				"paragraphes": [],
+				"titrePage": "Garage"
+			},
+			{
+				"iconePage": "icone_entrée_indépendante_au_sous-sol.png",
+				"pageURL": "entrée-indépendante-au-sous-sol",
+				"paragraphes": [
+					{
+						"imageParagraphe": {
+							"imageURL": "image_entrée_indépendante_au_sous-sol_1.jpg",
+							"titreImage": "titre_image_entrée_indépendante_au_sous-sol"
+						},
+						"liens": [
+							{
+								"icone": "link",
+								"lienURL": "entrée_indépendante_au_sous-sol.com",
+								"texte": "lien"
+							}
+						],
+						"texte": [
+							{
+								"style": "normal",
+								"texte": [
+									"Tel qu’indiqué sur le site de la SCHL, une cage d’escalier menant sur une entrée indépendante dans un sous-sol se doit d’être convenablement installée pour éviter tout risque d’infiltration d’eau.",
+									"S’il s’agit d’une nouvelle construction, il serait préférable de construire un mur de gel sous la porte d’entrée du sous-sol qui dépasserait la porte de trois à quatre pieds minimum.  ",
+									"S’il s’agit d’une construction déjà existante, il serait alors préférable d’isoler l’installation avec des panneaux d’isolant rigide extrudé.  ",
+									"Préparation du terrain :",
+									"Il est important d’excaver jusqu’au bas de la semelle déjà existante pour s’assurer que les le mur de fondation existant de la maison sera soumis aux mêmes conditions de gel que le mur qui sera construit.  ",
+									"Il doit y avoir au moins 8 à 10 pouces de 0-¾ bien compacté sous la nouvelle semelle.",
+									"Par la suite, il est préférable d’installer un panneau isolant rigide extrudé d’au moins 4 pouces entre le 0-¾ et la semelle. Le haut de la semelle doit arriver au même niveau que celle déjà existante.",
+									"Une fois la semelle en place, il est important d’installer le drain français (drain agricole) du côté extérieur de la semelle. Il est aussi important de prévoir un drain de plancher de type cheminée (idéalement pour éviter qu’il soit obstrué par la neige ou la glace) qui sera lui aussi raccordé au système d’égout pluvial.  ",
+									"Par la suite, il faut ajouter du gravier de type ¾ net pour combler le vide entre les deux semelles ainsi que par-dessus le drain agricole de façon à assurer le bon drainage du terrain, évitant ainsi toute infiltration d’eau.",
+									"Les formes pour recevoir le nouveau mur de fondation sont maintenant prêtes à être installées et le béton prêt à être coulé (pour une meilleure solidité, des armatures de métal peuvent être installées avant de couler le béton des murs de fondation pour plus de solidité)."
+								],
+								"titreTexte": "titre_texte"
+							}
+						],
+						"titreParagraphe": "titre_entrée_indépendante_au_sous-sol"
+					}
+				],
+				"titrePage": "Entrée indépendante au sous-sol"
+			},
+			{
+				"iconePage": "icone_abris_automobile.png",
+				"pageURL": "abris-automobile",
+				"paragraphes": [],
+				"titrePage": "Abris automobile"
+			},
+			{
+				"iconePage": "icone_solarium.png",
+				"pageURL": "solarium",
+				"paragraphes": [],
+				"titrePage": "Solarium"
+			}
+		],
+		"titreSection": "Constructions Annexées"
+	},
+	{
+		"iconeSection": "wrench",
+		"id": 15,
+		"pages": [
+			{
+				"iconePage": "icone_percée_exploratoire.png",
+				"pageURL": "percée-exploratoire",
+				"paragraphes": [],
+				"titrePage": "Percée exploratoire"
+			},
+			{
+				"iconePage": "icone_caméra_de_drain.png",
+				"pageURL": "caméra-de-drain",
+				"paragraphes": [],
+				"titrePage": "Caméra de drain"
+			},
+			{
+				"iconePage": "icone_tests_d’eau.png",
+				"pageURL": "tests-d’eau",
+				"paragraphes": [],
+				"titrePage": "Tests d’eau"
+			},
+			{
+				"iconePage": "icone_test_d’étanchéité_à_l’air.png",
+				"pageURL": "test-d’étanchéité-à-l’air",
+				"paragraphes": [],
+				"titrePage": "Test d’étanchéité à l’air"
+			},
+			{
+				"iconePage": "icone_analyse_de_la_qualité_de_l’air.png",
+				"pageURL": "analyse-de-la-qualité-de-l’air",
+				"paragraphes": [],
+				"titrePage": "Analyse de la qualité de l’air"
+			}
+		],
+		"titreSection": "Services Complémentaires"
+	}
 ]
